@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 26,
+    "districtCode": "THN",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "THN",
+    "nameEn": "Theni",
+    "nameTa": "தேனி",
+    "region": "Southern",
+    "latitude": 10.0104,
+    "longitude": 77.4768,
+    "description": "A picturesque district nestled in the Western Ghats, famous for its sprawling cardamom and tea plantations, the Vaigai Dam, and lush mountain retreats."
+  },
+  "culturalEntries": [
+    {
+      "title": "Meghamalai - High Wavy Mountains",
+      "titleTa": "மேகமலை",
+      "alternateNames": "High Wavy Mountains, Paccha Kumachi",
+      "shortDescription": "A pristine and relatively unexplored hill range in the Western Ghats, known for its extensive tea estates, rich wildlife, and cloud-covered peaks.",
+      "fullDescription": "Meghamalai, popularly called the 'High Wavy Mountains', is a cool and misty mountain range situated at an elevation of 1,500 meters. Covered in undulating tea, coffee, and cardamom estates, the region is a crucial biodiversity hotspot forming the Meghamalai Wildlife Sanctuary. It serves as a vital corridor for elephants and the endangered Grizzled Giant Squirrel. Untouched by heavy commercial tourism, it remains one of Tamil Nadu's best-kept secrets for ecological and nature-based exploration.",
+      "categoryCode": "HIDDEN_GEMS",
+      "districtCode": "THN",
+      "townVillage": "Meghamalai",
+      "latitude": 9.7155,
+      "longitude": 77.4093,
+      "authenticityType": "COMMUNITY_ORAL_HISTORY",
+      "religionCommunity": "Secular / Natural Heritage",
+      "historyOrigin": "Historically inhabited by indigenous tribes and later developed into tea estates by the British.",
+      "culturalSignificance": "Represents a crucial ecological buffer zone in the Western Ghats, preserving the delicate balance between sustainable plantation agriculture and wildlife conservation.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": true,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "hill station",
+        "tea estate",
+        "wildlife",
+        "western ghats",
+        "meghamalai",
+        "nature"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "MEGHAMALAI_HILLS",
+      "keywords": "theni, meghamalai, high wavy mountains, tea estate, hidden gem, wildlife, hill station",
+      "categoryCode": "HIDDEN_GEMS",
+      "districtCode": "THN",
+      "answerEn": "Meghamalai, also known as the High Wavy Mountains, is a serene and relatively unexplored hill station in Theni district. It is famous for its misty tea estates, cardamom plantations, and rich wildlife sanctuary.",
+      "answerTa": "தேனி மாவட்டத்தில் உள்ள மேகமலை 'High Wavy Mountains' என்று அழைக்கப்படுகிறது. இது தேயிலை மற்றும் ஏலக்காய் தோட்டங்களுக்கும், மேகங்கள் தவழும் மலை முகடுகளுக்கும், வனவிலங்கு சரணாலயத்திற்கும் பெயர் பெற்ற அழகிய மலைவாசஸ்தலமாகும்.",
+      "linkedEntryTitle": "Meghamalai - High Wavy Mountains"
+    }
+  ]
+}

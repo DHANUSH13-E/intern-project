@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 16,
+    "districtCode": "NGP",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "NGP",
+    "nameEn": "Nagapattinam",
+    "nameTa": "நாகப்பட்டினம்",
+    "region": "Central",
+    "latitude": 10.7656,
+    "longitude": 79.8424,
+    "description": "A prominent coastal district known for its deep-rooted religious harmony, housing the Velankanni Church, Nagore Dargah, and ancient Chola era ports, alongside the rich biodiversity of Point Calimere."
+  },
+  "culturalEntries": [
+    {
+      "title": "Point Calimere and Chola Lighthouse",
+      "titleTa": "கோடியக்கரை மற்றும் சோழர் கால கலங்கரை விளக்கம்",
+      "alternateNames": "Kodiakkarai, Chola Lighthouse",
+      "shortDescription": "A coastal headland featuring a wildlife sanctuary and the ruins of an ancient brick lighthouse built during the Chola dynasty.",
+      "fullDescription": "Located at the apex of the Kaveri delta, Point Calimere (Kodiakkarai) is renowned both for its ecological sanctuary—hosting migratory flamingos and the endangered blackbuck—and its profound historical footprint. The site features the remnants of an ancient brick lighthouse dating back to the reign of Raja Raja Chola I (approx. 1000 CE), which guided merchant ships trading with Southeast Asia. The area is also steeped in myth, believed to be the spot where Lord Rama scouted Sri Lanka.",
+      "categoryCode": "ARCHAEOLOGICAL_INSCRIPTIONS",
+      "districtCode": "NGP",
+      "townVillage": "Kodiakkarai",
+      "latitude": 10.2942,
+      "longitude": 79.8459,
+      "authenticityType": "ARCHAEOLOGICAL_SCHOLARLY",
+      "religionCommunity": "Secular / Chola Maritime",
+      "historyOrigin": "The lighthouse ruins date back to the 11th-century Chola period; the region has Sangam era maritime references.",
+      "culturalSignificance": "Demonstrates the advanced maritime navigational infrastructure of the Chola Empire, blending rich biodiversity with medieval nautical archaeology.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": true,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "chola empire",
+        "lighthouse",
+        "kodiakkarai",
+        "maritime history",
+        "wildlife",
+        "point calimere"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "POINT_CALIMERE_CHOLA",
+      "keywords": "nagapattinam, kodiakkarai, point calimere, chola lighthouse, maritime, birds, raja raja chola",
+      "categoryCode": "ARCHAEOLOGICAL_INSCRIPTIONS",
+      "districtCode": "NGP",
+      "answerEn": "Point Calimere (Kodiakkarai) in Nagapattinam is famous for its wildlife sanctuary and the ruins of an ancient brick lighthouse built by the Chola dynasty around 1000 CE to guide maritime trade vessels.",
+      "answerTa": "நாகப்பட்டினம் மாவட்டத்தில் உள்ள கோடியக்கரை, பறவைகள் சரணாலயத்திற்கும், சோழர் காலத்தில் (சுமார் கி.பி. 1000) வணிகக் கப்பல்களுக்கு வழிகாட்ட கட்டப்பட்ட பழமையான செங்கல் கலங்கரை விளக்கத்தின் இடிபாடுகளுக்கும் பெயர் பெற்றது.",
+      "linkedEntryTitle": "Point Calimere and Chola Lighthouse"
+    }
+  ]
+}

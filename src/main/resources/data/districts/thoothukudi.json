@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 27,
+    "districtCode": "TUT",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TUT",
+    "nameEn": "Thoothukudi",
+    "nameTa": "தூத்துக்குடி",
+    "region": "Southern",
+    "latitude": 8.7642,
+    "longitude": 78.1348,
+    "description": "Known as the 'Pearl City' due to its historic pearl fishing industry, this coastal district is an active major seaport and the site of significant archaeological finds like Adichanallur."
+  },
+  "culturalEntries": [
+    {
+      "title": "Kazhugumalai Vettuvan Koil and Jain Beds",
+      "titleTa": "கழுகுமலை வெட்டுவான் கோயில் மற்றும் சமணர் படுக்கைகள்",
+      "alternateNames": "Vettuvan Koil, Sculptor's Paradise",
+      "shortDescription": "An 8th-century monolithic Pandya temple carved top-down from a single rock, accompanied by extensive rock-cut Jain bas-reliefs.",
+      "fullDescription": "Kazhugumalai is a remarkable archaeological site showcasing early Pandya rock-cut architecture. The centerpiece is the 'Vettuvan Koil' (Temple of the Slayer), an unfinished monolithic Shiva temple carved entirely from the top down into a solid granite hillside, drawing comparisons to Ellora's Kailasanatha temple. Just steps away are over 100 exquisite Jain rock-cut sculptures and stone beds dating back to the 8th and 9th centuries, highlighting a period of profound religious coexistence and artisanal mastery.",
+      "categoryCode": "HIDDEN_GEMS",
+      "districtCode": "TUT",
+      "townVillage": "Kazhugumalai",
+      "latitude": 9.1419,
+      "longitude": 77.7126,
+      "authenticityType": "ARCHAEOLOGICAL_SCHOLARLY",
+      "religionCommunity": "Hindu & Jain",
+      "historyOrigin": "Commissioned by Pandya kings in the 8th century CE.",
+      "culturalSignificance": "A rare architectural marvel demonstrating the 'top-down' monolithic carving technique in South India, while serving as a vital record of Jainism's influence in the Pandya kingdom.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": true,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "monolithic",
+        "rock-cut",
+        "jain heritage",
+        "vettuvan koil",
+        "pandya architecture",
+        "sculpture"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "KAZHUGUMALAI_MONUMENTS",
+      "keywords": "thoothukudi, kazhugumalai, vettuvan koil, jain beds, monolithic, pandya, rock cut",
+      "categoryCode": "HIDDEN_GEMS",
+      "districtCode": "TUT",
+      "answerEn": "Kazhugumalai in Thoothukudi district features the Vettuvan Koil, an 8th-century unfinished monolithic Shiva temple carved top-down from a single rock by the Pandyas, along with exquisite rock-cut Jain sculptures.",
+      "answerTa": "தூத்துக்குடி மாவட்டத்தில் உள்ள கழுகுமலையில், பாண்டியர்களால் மலையை மேலிருந்து கீழாகக் குடைந்து உருவாக்கப்பட்ட 8-ஆம் நூற்றாண்டு ஒற்றைக்கல் சிவன்கோயிலான வெட்டுவான் கோயிலும், எண்ணற்ற சமணச் சிற்பங்களும் அமைந்துள்ளன.",
+      "linkedEntryTitle": "Kazhugumalai Vettuvan Koil and Jain Beds"
+    }
+  ]
+}

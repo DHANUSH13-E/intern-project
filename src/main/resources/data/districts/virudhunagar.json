@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 36,
+    "districtCode": "VIR",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "VIR",
+    "nameEn": "Virudhunagar",
+    "nameTa": "விருதுநகர்",
+    "region": "Southern",
+    "latitude": 9.5872,
+    "longitude": 77.9514,
+    "description": "An industrious district known for printing, fireworks, and matchbox manufacturing in Sivakasi, as well as the birthplace of former Chief Minister K. Kamaraj and the sacred town of Srivilliputhur."
+  },
+  "culturalEntries": [
+    {
+      "title": "Srivilliputhur Andal Temple",
+      "titleTa": "ஸ்ரீவில்லிபுத்தூர் ஆண்டாள் கோயில்",
+      "alternateNames": "Andal Kovil",
+      "shortDescription": "A venerated Vaishnavite temple dedicated to the poet-saint Andal. Its soaring 192-foot Rajagopuram is the official emblem of the Government of Tamil Nadu.",
+      "fullDescription": "Srivilliputhur is one of the most sacred Divya Desams in Vaishnavism, being the birthplace of two great Alvars (poet-saints): Periyalvar and his foster daughter Andal. Andal is celebrated for her unwavering devotion to Lord Vishnu and her timeless Tamil literary works, 'Thiruppavai' and 'Nachiyar Tirumozhi'. The temple features two parts: the Vatapatrasayi temple and the Andal shrine. The magnificent 11-tiered, 192-foot tall Rajagopuram, built during the Pandya and Madurai Nayak eras, holds immense cultural pride as it serves as the official state emblem of Tamil Nadu. The town is also famous for 'Srivilliputhur Palkova', a geographical indication (GI) tagged milk sweet.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "VIR",
+      "townVillage": "Srivilliputhur",
+      "latitude": 9.5082,
+      "longitude": 77.6323,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu - Vaishnavite",
+      "historyOrigin": "Roots in the 8th century (Alvar period); towering Gopuram constructed around the 11th-16th centuries.",
+      "culturalSignificance": "A confluence of rich Bhakti literature, iconic Dravidian architecture serving as the state symbol, and unique culinary heritage (Palkova).",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "andal",
+        "srivilliputhur",
+        "tamil nadu emblem",
+        "gopuram",
+        "thiruppavai",
+        "palkova"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "SRIVILLIPUTHUR_ANDAL",
+      "keywords": "virudhunagar, srivilliputhur, andal, gopuram, tamil nadu emblem, palkova, thiruppavai, divya desam",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "VIR",
+      "answerEn": "The Srivilliputhur Andal Temple in Virudhunagar district is a major Vaishnavite shrine. Its 192-foot tall Rajagopuram famously serves as the official emblem of the Government of Tamil Nadu. The town is also famous for the sweet 'Palkova'.",
+      "answerTa": "விருதுநகர் மாவட்டத்தில் உள்ள ஸ்ரீவில்லிபுத்தூர் ஆண்டாள் கோயில் மிகவும் புகழ்பெற்ற வைணவத் திருத்தலமாகும். இதன் 192 அடி உயர ராஜகோபுரமே தமிழ்நாடு அரசின் அதிகாரப்பூர்வ இலச்சினையாக (Emblem) உள்ளது. இவ்வூர் சுவையான 'பால்கோவா'விற்கும் புகழ் பெற்றது.",
+      "linkedEntryTitle": "Srivilliputhur Andal Temple"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 18,
+    "districtCode": "NIL",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "NIL",
+    "nameEn": "The Nilgiris",
+    "nameTa": "நீலகிரி",
+    "region": "Western",
+    "latitude": 11.41,
+    "longitude": 76.69,
+    "description": "Meaning 'Blue Mountains', this district is nested in the Western Ghats. It is globally acclaimed for its sprawling tea estates, unique indigenous tribes like the Todas, and colonial-era hill station architecture."
+  },
+  "culturalEntries": [
+    {
+      "title": "Nilgiri Mountain Railway",
+      "titleTa": "நீலகிரி மலை இரயில்வே",
+      "alternateNames": "Ooty Toy Train, NMR",
+      "shortDescription": "A UNESCO World Heritage narrow-gauge railway built by the British, operating on a unique rack and pinion system through the steep mountains.",
+      "fullDescription": "Constructed between 1891 and 1908 by the British, the Nilgiri Mountain Railway (NMR) connects Mettupalayam to Udhagamandalam (Ooty). Spanning 46 kilometers, it is the only rack railway in India. The train uses the 'Abt rack and pinion' system to climb the steep gradients of the Western Ghats, being pushed by historic Swiss-built steam locomotives. The journey crosses over 250 bridges and through 16 tunnels, offering unparalleled views of tea estates, dense shola forests, and rocky terrains.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "NIL",
+      "townVillage": "Ooty / Mettupalayam",
+      "latitude": 11.3396,
+      "longitude": 76.7909,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Industrial Heritage",
+      "historyOrigin": "Conceived in 1854, construction began in 1891 and was completed in 1908 by the British Raj.",
+      "culturalSignificance": "Recognized as a UNESCO World Heritage Site (Mountain Railways of India), it is a marvel of late 19th-century engineering that preserved the ecological aesthetics of the Nilgiris.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "unesco",
+        "toy train",
+        "railway",
+        "ooty",
+        "colonial engineering",
+        "western ghats"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "NILGIRI_MOUNTAIN_RAILWAY",
+      "keywords": "nilgiris, ooty, toy train, mountain railway, nmr, unesco, rack and pinion, mettupalayam",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "NIL",
+      "answerEn": "The Nilgiri Mountain Railway, affectionately known as the Ooty Toy Train, is a UNESCO World Heritage site. Built in 1908, it is the only rack and pinion railway in India, using steam locomotives to climb the steep Western Ghats.",
+      "answerTa": "ஊட்டி பொம்மை ரயில் என அழைக்கப்படும் நீலகிரி மலை இரயில்வே, யுனெஸ்கோ உலகப் பாரம்பரிய தளமாகும். 1908-ஆம் ஆண்டு கட்டப்பட்ட இது, இந்தியாவில் உள்ள ஒரே 'ராக் அண்ட் பினியன்' (பற்சக்கர) ரயில் அமைப்பாகும். இது நீலகிரியின் செங்குத்தான மலைகளில் பயணிக்கிறது.",
+      "linkedEntryTitle": "Nilgiri Mountain Railway"
+    }
+  ]
+}

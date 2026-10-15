@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 21,
+    "districtCode": "RAM",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "RAM",
+    "nameEn": "Ramanathapuram",
+    "nameTa": "ராமநாதபுரம்",
+    "region": "Southern",
+    "latitude": 9.3626,
+    "longitude": 78.8354,
+    "description": "A coastal district that serves as the gateway to Rameswaram. Historically ruled by the Sethupathi kings, it is famous for its sacred pilgrimage sites, coral reefs in the Gulf of Mannar, and the Pamban Bridge."
+  },
+  "culturalEntries": [
+    {
+      "title": "Ramanathaswamy Temple, Rameswaram",
+      "titleTa": "ராமநாதசுவாமி கோயில், ராமேஸ்வரம்",
+      "alternateNames": "Rameswaram Jyotirlinga",
+      "shortDescription": "One of the Char Dham pilgrimage sites and a Jyotirlinga, world-renowned for its magnificent pillared corridors which are the longest in the world.",
+      "fullDescription": "Located on Pamban Island, the Ramanathaswamy Temple is one of the holiest shrines in Hinduism, intimately connected to the Ramayana. Legend states that the Shivalingam here was established by Lord Rama to absolve himself of the sin of defeating Ravana. The temple is an architectural marvel of the Dravidian style, most famous for its stunning outer corridor (Prakaram)—the longest in the world, stretching over 1.2 kilometers and featuring thousands of intricately carved pillars gracefully painted and aligned in breathtaking symmetry.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "RAM",
+      "townVillage": "Rameswaram",
+      "latitude": 9.2881,
+      "longitude": 79.3174,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu",
+      "historyOrigin": "Original sanctum linked to epic antiquity; massive corridors expanded by the Sethupathi kings of Ramanathapuram in the 17th century.",
+      "culturalSignificance": "A paramount pilgrimage destination bringing together Shaivite and Vaishnavite traditions. Its architectural scale represents the zenith of royal Sethupathi patronage.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "jyotirlinga",
+        "char dham",
+        "rameswaram",
+        "corridor",
+        "lord rama",
+        "sethupathi"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "RAMANATHASWAMY_RAMESWARAM",
+      "keywords": "ramanathapuram, rameswaram, ramanathaswamy, jyotirlinga, longest corridor, char dham, lord rama",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "RAM",
+      "answerEn": "The Ramanathaswamy Temple in Rameswaram is a Jyotirlinga and Char Dham site. According to legend, the Lingam was installed by Lord Rama. It is architecturally world-famous for possessing the longest temple corridor in the world.",
+      "answerTa": "ராமேஸ்வரத்தில் உள்ள ராமநாதசுவாமி கோயில் ஜோதிர்லிங்கத் தலங்களில் ஒன்றாகும். ஸ்ரீ ராமர் இங்கு சிவலிங்கத்தை பிரதிஷ்டை செய்ததாகப் புராணங்கள் கூறுகின்றன. இக்கோயிலின் பிரகாரம் (தாழ்வாரம்) உலகின் மிக நீளமான கோயில் பிரகாரமாக உலகப் புகழ் பெற்றது.",
+      "linkedEntryTitle": "Ramanathaswamy Temple, Rameswaram"
+    }
+  ]
+}

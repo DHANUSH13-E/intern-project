@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 29,
+    "districtCode": "TPR",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TPR",
+    "nameEn": "Tirupathur",
+    "nameTa": "திருப்பத்தூர்",
+    "region": "Northern",
+    "latitude": 12.4934,
+    "longitude": 78.5661,
+    "description": "Known as the 'Sandalwood City', Tirupathur is renowned for the Yelagiri hill station, serene lakes, and the Vainu Bappu Observatory in Kavalur."
+  },
+  "culturalEntries": [
+    {
+      "title": "Yelagiri Hills and Tribal Culture",
+      "titleTa": "ஏலகிரி மலை மற்றும் பழங்குடி பண்பாடு",
+      "alternateNames": "Elagiri",
+      "shortDescription": "A cluster of 14 tribal villages nestled among 4 emerald green hills, offering a quiet, non-commercialized hill station experience.",
+      "fullDescription": "Yelagiri is a peaceful hill station situated at an altitude of 1,410 meters. Unlike the highly commercialized Ooty or Kodaikanal, Yelagiri retains a pristine charm. It comprises 14 hamlets inhabited primarily by the Malayali tribal community, who engage in agriculture and orcharding (jackfruit, honey, and hill bananas). The Punganoor Lake Park, Jalagamparai Waterfalls, and the Swamimalai Trek are key highlights. The local tribal communities preserve indigenous farming techniques and host an annual summer festival showcasing their traditional music and dances.",
+      "categoryCode": "VILLAGE_CUSTOMS",
+      "districtCode": "TPR",
+      "townVillage": "Yelagiri",
+      "latitude": 12.576,
+      "longitude": 78.6385,
+      "authenticityType": "COMMUNITY_ORAL_HISTORY",
+      "religionCommunity": "Tribal / Malayali Community",
+      "historyOrigin": "Historically a private estate of the Yelagiri Zamindar, taken over by the Government in the 1950s.",
+      "culturalSignificance": "A model of eco-tourism where indigenous tribal village administration (Panchayat) works in harmony with modern tourism, preserving local agrarian cultures.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "hill station",
+        "yelagiri",
+        "tribal",
+        "eco tourism",
+        "trekking",
+        "lake"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "YELAGIRI_HILLS",
+      "keywords": "tirupathur, yelagiri, elagiri, hill station, tribal, punganoor lake, malayali tribe, trekking",
+      "categoryCode": "VILLAGE_CUSTOMS",
+      "districtCode": "TPR",
+      "answerEn": "Yelagiri in Tirupathur district is a tranquil hill station comprising 14 tribal villages. It is known for the Punganoor lake, trekking routes, and the preserved agrarian culture of the local Malayali tribes.",
+      "answerTa": "திருப்பத்தூர் மாவட்டத்தில் உள்ள ஏலகிரி 14 பழங்குடி கிராமங்களைக் கொண்ட அமைதியான மலைவாசஸ்தலமாகும். இது புங்கனூர் ஏரி, மலையேற்றப் பாதைகள் மற்றும் அங்குள்ள மலையாளி பழங்குடியினரின் பாரம்பரிய விவசாயப் பண்பாட்டிற்குப் பெயர் பெற்றது.",
+      "linkedEntryTitle": "Yelagiri Hills and Tribal Culture"
+    }
+  ]
+}

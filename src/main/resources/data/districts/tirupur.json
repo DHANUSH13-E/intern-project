@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 30,
+    "districtCode": "TUP",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TUP",
+    "nameEn": "Tirupur",
+    "nameTa": "திருப்பூர்",
+    "region": "Western",
+    "latitude": 11.1085,
+    "longitude": 77.3411,
+    "description": "Known globally as the 'Knitwear Capital of India', Tirupur is situated on the banks of the Noyyal river and holds deep historical ties to the Kongu Nadu region and ancient Chola trade."
+  },
+  "culturalEntries": [
+    {
+      "title": "Thirumuruganpoondi Temple",
+      "titleTa": "திருமுருகன்பூண்டி கோயில்",
+      "alternateNames": "Muruganatheswarar Temple",
+      "shortDescription": "A 9th-century Paadal Petra Sthalam where Lord Murugan is said to have worshipped Lord Shiva to atone for killing the demon Surapadman.",
+      "fullDescription": "The Muruganatheswarar Temple at Thirumuruganpoondi is an ancient shrine revered in the Tevaram by saint Sundarar. According to mythology, Lord Murugan installed the Shivalingam here to rid himself of the sin (Brahmahatti Dosham) incurred by defeating the demon Surapadman. A unique event associated with the temple involves Sundarar being robbed of his wealth by Lord Shiva disguised as a hunter, only to have it returned here. The village is also renowned across South India for its traditional stone sculpting artisans who craft deity idols for temples worldwide.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TUP",
+      "townVillage": "Thirumuruganpoondi",
+      "latitude": 11.161,
+      "longitude": 77.3195,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu / Artisan Community",
+      "historyOrigin": "Dates back to the 9th century, associated with the Nayanmar Saint Sundarar.",
+      "culturalSignificance": "Beyond its religious importance as a Paadal Petra Sthalam, the town is a living heritage center for the ancient craft of Agamic stone sculpting (Silpa Shastra).",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "shiva temple",
+        "murugan",
+        "tevaram",
+        "stone sculpting",
+        "kongu nadu",
+        "sundarar"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "THIRUMURUGANPOONDI_TEMPLE",
+      "keywords": "tirupur, thirumuruganpoondi, muruganatheswarar, shiva, sundarar, stone sculpting, kongu nadu",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TUP",
+      "answerEn": "The Thirumuruganpoondi Temple in Tirupur is a 9th-century Shiva temple where Lord Murugan is said to have worshipped. The town is also highly famous for its traditional artisans who carve stone idols for temples worldwide.",
+      "answerTa": "திருப்பூர் மாவட்டத்தில் உள்ள திருமுருகன்பூண்டி கோயில், சூரபத்மனை வதம் செய்த தோஷம் நீங்க முருகப்பெருமான் சிவனை வழிபட்ட தலமாகும். இந்த ஊர் உலகம் முழுவதும் உள்ள கோயில்களுக்கு கற்சிலைகளை வடிக்கும் பாரம்பரிய சிற்பிகளுக்குப் பெயர் பெற்றது.",
+      "linkedEntryTitle": "Thirumuruganpoondi Temple"
+    }
+  ]
+}

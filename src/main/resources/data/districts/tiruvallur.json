@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 31,
+    "districtCode": "TVL",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TVL",
+    "nameEn": "Tiruvallur",
+    "nameTa": "திருவள்ளூர்",
+    "region": "Northern",
+    "latitude": 13.1417,
+    "longitude": 79.9071,
+    "description": "A rapidly industrializing district neighboring Chennai, featuring the historic Veeraraghava Swamy Temple, the Poondi reservoir, and the ecologically critical Pulicat Lake."
+  },
+  "culturalEntries": [
+    {
+      "title": "Pulicat Lake and Dutch Heritage",
+      "titleTa": "பழவேற்காடு ஏரி மற்றும் டச்சு மரபு",
+      "alternateNames": "Pazhaverkadu, Pulicat Lagoon",
+      "shortDescription": "The second largest brackish water lagoon in India, famous for its flamingo sanctuary and 17th-century Dutch colonial ruins.",
+      "fullDescription": "Pulicat (Pazhaverkadu) is an ecologically and historically vital town on the Coromandel Coast. The Pulicat Lake is the second-largest brackish water lagoon in India and serves as a major wintering ground for migratory birds, most notably thousands of Greater Flamingos. Historically, it was the most important settlement of the Dutch East India Company in India during the 17th century. The town still houses a well-preserved Dutch cemetery with intricately carved tombstones dating back to 1622, and the ruins of Fort Geldria.",
+      "categoryCode": "ARCHAEOLOGICAL_INSCRIPTIONS",
+      "districtCode": "TVL",
+      "townVillage": "Pulicat",
+      "latitude": 13.4182,
+      "longitude": 80.3188,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Colonial Heritage",
+      "historyOrigin": "Natural lagoon; Fort Geldria built by the Dutch in 1613 CE.",
+      "culturalSignificance": "A unique intersection of rich ecological biodiversity and early European colonial history in India, pre-dating British dominance in the region.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": true,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "pulicat",
+        "lagoon",
+        "dutch heritage",
+        "flamingos",
+        "cemetery",
+        "colonial"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "PULICAT_LAKE_DUTCH",
+      "keywords": "tiruvallur, pulicat, pazhaverkadu, lake, flamingo, dutch cemetery, fort geldria, lagoon",
+      "categoryCode": "ARCHAEOLOGICAL_INSCRIPTIONS",
+      "districtCode": "TVL",
+      "answerEn": "Pulicat (Pazhaverkadu) in Tiruvallur is the second largest brackish water lagoon in India, famous for migrating flamingos. It also holds significant colonial history, featuring a 17th-century Dutch cemetery and the ruins of Fort Geldria.",
+      "answerTa": "திருவள்ளூர் மாவட்டத்தில் உள்ள பழவேற்காடு (புலிகாட்), இந்தியாவின் இரண்டாவது மிகப்பெரிய உவர்நீர் ஏரியாகும். இங்கு வலசை வரும் பூநாரைகளும் (Flamingos), 17-ஆம் நூற்றாண்டைச் சேர்ந்த டச்சுக்காரர்களின் கல்லறைகளும், கெல்டிரியா கோட்டையின் இடிபாடுகளும் அமைந்துள்ளன.",
+      "linkedEntryTitle": "Pulicat Lake and Dutch Heritage"
+    }
+  ]
+}

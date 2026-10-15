@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 22,
+    "districtCode": "RPT",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "RPT",
+    "nameEn": "Ranipet",
+    "nameTa": "ராணிப்பேட்டை",
+    "region": "Northern",
+    "latitude": 12.9272,
+    "longitude": 79.333,
+    "description": "Carved out of Vellore, Ranipet was established by the Nawab of Carnatic in honor of the youthful widow of Desingh Raja of Gingee. It is rich in Islamic heritage and is a major industrial hub for leather and ceramics."
+  },
+  "culturalEntries": [
+    {
+      "title": "Arcot Delhi Gate",
+      "titleTa": "ஆற்காடு டெல்லி கேட்",
+      "alternateNames": "Nawab's Fort Gate",
+      "shortDescription": "The monumental entrance and surviving remnant of the historic Arcot Fort, famously associated with Robert Clive's 1751 Siege of Arcot.",
+      "fullDescription": "The Arcot Delhi Gate is the prominent surviving structure of the once-massive Arcot Fort, the capital of the Nawabs of the Carnatic. The gate earned its name 'Delhi Gate' because it marked the beginning of the route from Arcot to Delhi, emphasizing the Nawab's allegiance to the Mughal Emperor. This site is etched in global military history due to the 1751 'Siege of Arcot', where a small British East India Company force led by Robert Clive famously defended the fort against the much larger forces of Chanda Sahib, turning the tide of the Carnatic Wars.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "RPT",
+      "townVillage": "Arcot",
+      "latitude": 12.9066,
+      "longitude": 79.3314,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Islamic / Secular Military",
+      "historyOrigin": "Fortified in the 18th century by the Nawabs of Carnatic under the Mughal Empire.",
+      "culturalSignificance": "A critical monument symbolizing the geopolitical struggles of the 18th century in South India, the decline of the Nawab era, and the ascendance of British colonial power.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "arcot",
+        "delhi gate",
+        "nawab of carnatic",
+        "robert clive",
+        "carnatic wars",
+        "ranipet"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "ARCOT_DELHI_GATE",
+      "keywords": "ranipet, arcot, delhi gate, nawab, carnatic wars, siege of arcot, robert clive",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "RPT",
+      "answerEn": "The Arcot Delhi Gate in Ranipet district is the remnant of the capital fort of the Nawabs of Carnatic. It is historically famous for the 1751 Siege of Arcot, where Robert Clive's defense altered the course of the Carnatic Wars.",
+      "answerTa": "ராணிப்பேட்டை மாவட்டத்தில் உள்ள ஆற்காடு டெல்லி கேட், கர்நாடக நவாப்களின் தலைநகரக் கோட்டையின் எஞ்சிய பகுதியாகும். 1751-இல் ராபர்ட் கிளைவ் தலைமையிலான ஆங்கிலேயப் படையினர் முற்றுகையை முறியடித்த புகழ்பெற்ற 'ஆற்காடு முற்றுகை' இங்குதான் நடைபெற்றது.",
+      "linkedEntryTitle": "Arcot Delhi Gate"
+    }
+  ]
+}

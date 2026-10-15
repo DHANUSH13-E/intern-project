@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 20,
+    "districtCode": "PDK",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "PDK",
+    "nameEn": "Pudukkottai",
+    "nameTa": "புதுக்கோட்டை",
+    "region": "Central",
+    "latitude": 10.3797,
+    "longitude": 78.8208,
+    "description": "Formerly a princely state, Pudukkottai is an archaeological treasure trove featuring Jain cave frescoes, early Chola structural temples, and megalithic burial sites."
+  },
+  "culturalEntries": [
+    {
+      "title": "Thirumayam Fort and Cave Temples",
+      "titleTa": "திருமயம் கோட்டை மற்றும் குடைவரைக் கோயில்கள்",
+      "alternateNames": "Oomayan Kottai",
+      "shortDescription": "A massive 17th-century rock fort known for its association with the Polygar Wars, surrounded by two ancient rock-cut cave temples dedicated to Shiva and Vishnu.",
+      "fullDescription": "Constructed in 1687 CE by Sethupathi Vijaya Raghunatha Tevan of Ramanathapuram, the Thirumayam Fort is of immense historical importance. It is locally known as 'Oomayan Kottai' because Oomathurai, the deaf-mute brother of the legendary freedom fighter Veerapandiya Kattabomman, was captured here by the British. At the foot of the fort rock lie two stunning Pallava/Pandya era rock-cut cave temples (7th-8th century): the Satyagirisathar (Shiva) temple and the Sathyamurthi Perumal (Vishnu) temple, showcasing remarkable early Dravidian rock-cut architecture.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "PDK",
+      "townVillage": "Thirumayam",
+      "latitude": 10.2452,
+      "longitude": 78.7516,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu / Secular Military",
+      "historyOrigin": "Cave temples carved in the 7th/8th centuries; Fort built in 1687 CE by Sethupathi kings.",
+      "culturalSignificance": "A unique site integrating early rock-cut religious shrines with late-medieval military fortifications. It symbolizes the fierce resistance of Tamil chieftains (Polygars) against British colonial rule.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "thirumayam",
+        "oomathurai",
+        "rock fort",
+        "cave temples",
+        "polygar wars",
+        "sethupathi"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "THIRUMAYAM_FORT_CAVES",
+      "keywords": "pudukkottai, thirumayam, fort, oomathurai, cave temple, sethupathi, kattabomman, rock cut",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "PDK",
+      "answerEn": "Thirumayam Fort in Pudukkottai is a 17th-century stronghold associated with freedom fighter Oomathurai. It sits atop a hill that houses two ancient 8th-century rock-cut cave temples dedicated to Lord Shiva and Lord Vishnu.",
+      "answerTa": "புதுக்கோட்டையில் உள்ள திருமயம் கோட்டை 17-ஆம் நூற்றாண்டில் கட்டப்பட்டது. இது சுதந்திரப் போராட்ட வீரர் ஊமைத்துரையுடன் தொடர்புடையது. இக்கோட்டை அமைந்துள்ள மலையின் அடிவாரத்தில் 8-ஆம் நூற்றாண்டைச் சேர்ந்த பழமையான சிவன் மற்றும் விஷ்ணு குடைவரைக் கோயில்கள் உள்ளன.",
+      "linkedEntryTitle": "Thirumayam Fort and Cave Temples"
+    }
+  ]
+}

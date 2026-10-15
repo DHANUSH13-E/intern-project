@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 24,
+    "districtCode": "TEN",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TEN",
+    "nameEn": "Tenkasi",
+    "nameTa": "தென்காசி",
+    "region": "Southern",
+    "latitude": 8.9595,
+    "longitude": 77.3161,
+    "description": "Meaning 'Kasi of the South', Tenkasi is nestled at the foothills of the Western Ghats. It is famed for the magnificent Kasi Viswanathar Temple and the rejuvenating Courtallam waterfalls."
+  },
+  "culturalEntries": [
+    {
+      "title": "Courtallam Waterfalls - Spa of the South",
+      "titleTa": "குற்றாலம் அருவிகள் - தென்னகத்தின் ஸ்பா",
+      "alternateNames": "Kutralam Falls, Spa of South India",
+      "shortDescription": "A series of spectacular waterfalls descending from the Agasthyamalai hills, revered for their natural beauty and the medicinal properties of the waters.",
+      "fullDescription": "Courtallam (Kutralam) is a major natural and cultural landmark in Tamil Nadu. The Chittar River cascades down the Agasthyamalai ranges of the Western Ghats, forming nine distinct waterfalls, including the Main Falls (Peraruvi), Five Falls (Aintharuvi), and Old Falls (Pazhaya Courtallam). Flowing through dense forests rich in medicinal herbs, the water is believed to have therapeutic properties, earning it the title 'Spa of the South'. The area is also home to the ancient Kutralanathar Temple (dedicated to Lord Shiva), establishing a deep cultural link between the waterfalls and Tamil Shaivite traditions.",
+      "categoryCode": "HIDDEN_GEMS",
+      "districtCode": "TEN",
+      "townVillage": "Courtallam",
+      "latitude": 8.9288,
+      "longitude": 77.2687,
+      "authenticityType": "COMMUNITY_ORAL_HISTORY",
+      "religionCommunity": "All Communities",
+      "historyOrigin": "Natural formation; the adjacent Kutralanathar temple has Chola and Pandya inscriptions.",
+      "culturalSignificance": "A vital eco-tourism and pilgrimage center. The 'Saral' (drizzling season) from June to September dictates local cultural rhythms, drawing people seeking both physical rejuvenation and spiritual solace.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "waterfalls",
+        "courtallam",
+        "kutralam",
+        "spa",
+        "western ghats",
+        "medicinal herbs"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "COURTALLAM_FALLS",
+      "keywords": "tenkasi, courtallam, kutralam, falls, waterfalls, spa of south, medicinal water, five falls",
+      "categoryCode": "HIDDEN_GEMS",
+      "districtCode": "TEN",
+      "answerEn": "Courtallam (Kutralam) in Tenkasi district is known as the 'Spa of South India'. It features nine spectacular waterfalls originating from the Western Ghats, carrying waters enriched by medicinal herbs from the Agasthyamalai hills.",
+      "answerTa": "தென்காசி மாவட்டத்தில் உள்ள குற்றாலம் 'தென்னகத்தின் ஸ்பா' என்று அழைக்கப்படுகிறது. மேற்குத் தொடர்ச்சி மலையில் இருந்து உற்பத்தியாகும் இங்குள்ள அருவிகளின் நீர், பல்வேறு மூலிகைகளின் மருத்துவ குணங்களைக் கொண்டுள்ளதாகக் கருதப்படுகிறது.",
+      "linkedEntryTitle": "Courtallam Waterfalls - Spa of the South"
+    }
+  ]
+}

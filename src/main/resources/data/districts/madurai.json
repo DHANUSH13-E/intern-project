@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 14,
+    "districtCode": "MDU",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "MDU",
+    "nameEn": "Madurai",
+    "nameTa": "மதுரை",
+    "region": "Southern",
+    "latitude": 9.9252,
+    "longitude": 78.1198,
+    "description": "One of the oldest continuously inhabited cities in the world, the 'Athens of the East'. Madurai was the seat of the Pandya dynasty, the home of the Tamil Sangams, and revolves around the magnificent Meenakshi Amman Temple."
+  },
+  "culturalEntries": [
+    {
+      "title": "Thirumalai Nayakkar Mahal",
+      "titleTa": "திருமலை நாயக்கர் மகால்",
+      "alternateNames": "Nayakkar Palace, Madurai Mahal",
+      "shortDescription": "A grand 17th-century palace blending Dravidian and Rajput architectural styles, famous for its massive stucco-covered pillars and sweeping arches.",
+      "fullDescription": "Erected in 1636 CE by King Thirumalai Nayak, this palace is a classic fusion of Dravidian and Rajput architectural styles with Islamic influences (Indo-Saracenic). Originally four times larger than what remains today, its surviving courtyard (Swarga Vilasam) is celebrated for its colossal circular pillars, which are 82 feet high and 19 feet wide, coated in a smooth finish of 'chunam' (shell lime, egg white, and jaggery). The palace reflects the zenith of the Madurai Nayak dynasty's wealth and patronage of the arts.",
+      "categoryCode": "ARCHITECTURE_SCULPTURE",
+      "districtCode": "MDU",
+      "townVillage": "Madurai City",
+      "latitude": 9.9148,
+      "longitude": 78.1235,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Royal Heritage",
+      "historyOrigin": "Designed by an Italian architect for King Thirumalai Nayak in 1636 CE.",
+      "culturalSignificance": "A premier example of secular Nayak architecture in South India, illustrating cultural cross-pollination between Southern empires, Northern Rajput styles, and European architectural techniques.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "palace",
+        "nayak dynasty",
+        "indo-saracenic",
+        "pillars",
+        "madurai",
+        "heritage"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "THIRUMALAI_NAYAKKAR_MAHAL",
+      "keywords": "madurai, thirumalai nayakkar mahal, palace, nayak dynasty, pillars, swarga vilasam, architecture",
+      "categoryCode": "ARCHITECTURE_SCULPTURE",
+      "districtCode": "MDU",
+      "answerEn": "The Thirumalai Nayakkar Mahal in Madurai is a 17th-century palace built by King Thirumalai Nayak. It is renowned for its Indo-Saracenic architecture, featuring massive circular pillars and a stunning central courtyard.",
+      "answerTa": "மதுரையில் உள்ள திருமலை நாயக்கர் மகால், 17-ஆம் நூற்றாண்டில் மன்னர் திருமலை நாயக்கரால் கட்டப்பட்டது. பிரம்மாண்டமான தூண்களையும், திராவிட மற்றும் ராஜபுத்திர கட்டிடக்கலை கலவையையும் கொண்ட இந்த அரண்மனை மிகவும் புகழ் பெற்றது.",
+      "linkedEntryTitle": "Thirumalai Nayakkar Mahal"
+    }
+  ]
+}

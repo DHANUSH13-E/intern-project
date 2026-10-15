@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 33,
+    "districtCode": "TVR",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TVR",
+    "nameEn": "Tiruvarur",
+    "nameTa": "திருவாரூர்",
+    "region": "Central",
+    "latitude": 10.7661,
+    "longitude": 79.6388,
+    "description": "Nestled in the Kaveri delta, Tiruvarur is deeply associated with Chola royalty, the legendary justice of King Manu Needhi Cholan, and classical Carnatic music's Trinity."
+  },
+  "culturalEntries": [
+    {
+      "title": "Thyagaraja Temple and Azhi Ther",
+      "titleTa": "தியாகராஜர் கோயில் மற்றும் ஆழித் தேர்",
+      "alternateNames": "Tiruvarur Temple, Kamalambal Temple",
+      "shortDescription": "An ancient, massive Shiva temple complex famous for the 'Kamalalayam' temple tank and the colossal wooden temple car, the 'Azhi Ther'.",
+      "fullDescription": "The Thyagaraja Temple is one of the most ancient and largest temple complexes in India. Dedicated to Lord Shiva (represented as Somaskanda), it serves as the primary seat of the Sapta Vidangam shrines. The temple is intrinsically linked to Carnatic music, being the birthplace of the Music Trinity (Tyagaraja, Muthuswami Dikshitar, and Syama Sastri). The temple's tank, 'Kamalalayam', is one of the largest in the country. Its annual chariot festival features the 'Azhi Ther', the largest and heaviest wooden temple car in Asia, weighing over 300 tons and standing 96 feet tall.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TVR",
+      "townVillage": "Tiruvarur Town",
+      "latitude": 10.7735,
+      "longitude": 79.6378,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu",
+      "historyOrigin": "Praised in 7th-century Tevaram hymns; massively expanded by the Imperial Cholas.",
+      "culturalSignificance": "A cornerstone of Tamil cultural history, blending Agamic worship, massive mechanical engineering (temple car), and the foundational evolution of classical Carnatic music.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "azhi ther",
+        "carnatic music",
+        "kamalalayam",
+        "chola",
+        "temple car",
+        "thyagaraja"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "THYAGARAJA_AZHI_THER",
+      "keywords": "tiruvarur, thyagaraja, azhi ther, temple car, kamalalayam, carnatic music, trinity, somaskanda",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TVR",
+      "answerEn": "The Thyagaraja Temple in Tiruvarur is famous for the 'Kamalalayam' tank and the 'Azhi Ther', the largest wooden temple car in Asia. Tiruvarur is also the birthplace of the Carnatic music Trinity.",
+      "answerTa": "திருவாரூர் தியாகராஜர் கோயில், பிரம்மாண்டமான கமலாலயக் குளத்திற்கும், ஆசியாவிலேயே மிகப்பெரிய மரத் தேரான 'ஆழித் தேருக்கும்' பெயர் பெற்றது. மேலும் இவ்வூர் கர்நாடக சங்கீத மும்மூர்த்திகள் அவதரித்த பெருமையைக் கொண்டது.",
+      "linkedEntryTitle": "Thyagaraja Temple and Azhi Ther"
+    }
+  ]
+}

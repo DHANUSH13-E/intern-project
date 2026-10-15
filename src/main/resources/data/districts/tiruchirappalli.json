@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 28,
+    "districtCode": "TRC",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TRC",
+    "nameEn": "Tiruchirappalli",
+    "nameTa": "திருச்சிராப்பள்ளி",
+    "region": "Central",
+    "latitude": 10.7905,
+    "longitude": 78.7047,
+    "description": "Centered geographically in Tamil Nadu, 'Trichy' is dominated by its iconic Rockfort, divided by the Kaveri river, and is home to the world's largest functioning Hindu temple in Srirangam."
+  },
+  "culturalEntries": [
+    {
+      "title": "Sri Ranganathaswamy Temple, Srirangam",
+      "titleTa": "ஸ்ரீ ரங்கநாதசுவாமி கோயில், ஸ்ரீரங்கம்",
+      "alternateNames": "Srirangam Temple, Thiruvarangam",
+      "shortDescription": "The largest functioning Hindu temple in the world, spanning 156 acres on a river island, dedicated to Lord Vishnu resting on the serpent Adisesha.",
+      "fullDescription": "Located on a picturesque island formed by the Kaveri and Kollidam rivers, the Sri Ranganathaswamy Temple is the foremost of the 108 Divya Desams (sacred Vishnu temples). Encompassing 156 acres, it is the largest functioning religious complex globally. The temple features seven concentric rectangular enclosures (prakarams) with massive walls, and 21 stunning gopurams, the tallest being the Rajagopuram at 236 feet. It boasts a rich history enriched by the Cholas, Pandyas, Hoysalas, and Vijayanagara empires, acting as the spiritual heart of the Sri Vaishnava community.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TRC",
+      "townVillage": "Srirangam, Trichy",
+      "latitude": 10.8623,
+      "longitude": 78.6872,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu - Vaishnavite",
+      "historyOrigin": "Ancient origins mentioned in Sangam literature; current sprawling layout developed between the 9th and 16th centuries.",
+      "culturalSignificance": "The spiritual headquarters of Sri Vaishnavism, central to the philosophy of Ramanuja. It represents the ultimate fusion of town planning, temple architecture, and living religious tradition in South India.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "vishnu",
+        "divya desam",
+        "srirangam",
+        "rajagopuram",
+        "kaveri",
+        "largest temple"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "SRIRANGAM_TEMPLE",
+      "keywords": "trichy, tiruchirappalli, srirangam, ranganathaswamy, vishnu, largest temple, rajagopuram, divya desam",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TRC",
+      "answerEn": "The Sri Ranganathaswamy Temple in Srirangam, Trichy, is the largest functioning Hindu temple in the world. Situated on an island in the Kaveri river, it boasts seven concentric enclosures and a 236-foot tall Rajagopuram.",
+      "answerTa": "திருச்சிராப்பள்ளி ஸ்ரீரங்கத்தில் அமைந்துள்ள ஸ்ரீ ரங்கநாதசுவாமி கோயில், உலகின் மிகப் பெரிய செயல்படும் இந்து கோயிலாகும். காவேரி ஆற்றின் நடுவே அமைந்துள்ள இக்கோயில் ஏழு பிரகாரங்களையும், 236 அடி உயர ராஜகோபுரத்தையும் கொண்டுள்ளது.",
+      "linkedEntryTitle": "Sri Ranganathaswamy Temple, Srirangam"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 15,
+    "districtCode": "MAY",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "MAY",
+    "nameEn": "Mayiladuthurai",
+    "nameTa": "மயிலாடுதுறை",
+    "region": "Central",
+    "latitude": 11.1085,
+    "longitude": 79.6588,
+    "description": "A culturally rich district formed from the Kaveri delta, famous for the ancient port city of Poompuhar, the historic Navagraha temples, and the unique Danish colonial settlement in Tharangambadi."
+  },
+  "culturalEntries": [
+    {
+      "title": "Fort Dansborg, Tharangambadi",
+      "titleTa": "டேனிஷ் கோட்டை, தரங்கம்பாடி",
+      "alternateNames": "Danish Fort, Tranquebar Fort",
+      "shortDescription": "A 17th-century Danish fort situated on the shores of the Bay of Bengal, reflecting a unique blend of Scandinavian military architecture in South India.",
+      "fullDescription": "Constructed in 1620 CE by the Danish Admiral Ove Gjedde with the permission of the Raghunatha Nayak of Tanjore, Fort Dansborg served as the base for the Danish East India Company. Tharangambadi (meaning 'Place of the Singing Waves') became a bustling trading post and the site where the first printing press in India was established by Bartholomaeus Ziegenbalg. The fort features massive stone walls, vaulted brick ceilings, and colonial-era cannons, standing as the second largest Danish fort in the world after Kronborg.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "MAY",
+      "townVillage": "Tharangambadi",
+      "latitude": 11.028,
+      "longitude": 79.854,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Colonial Heritage",
+      "historyOrigin": "Built in 1620 CE by Danish colonizers following a treaty with the Thanjavur Nayak kingdom.",
+      "culturalSignificance": "A rare surviving remnant of Danish colonial history in India. It also marks the birthplace of Tamil print media, where the New Testament was first printed in Tamil in 1715.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "danish fort",
+        "colonial architecture",
+        "tranquebar",
+        "tharangambadi",
+        "printing press",
+        "bay of bengal"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "FORT_DANSBORG_TRANQUEBAR",
+      "keywords": "mayiladuthurai, tharangambadi, tranquebar, danish fort, dansborg, printing press, colonial",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "MAY",
+      "answerEn": "Fort Dansborg in Tharangambadi (Tranquebar) is a 17th-century Danish fort. It was the headquarters of the Danish East India Company and is historically significant as the site of India's first printing press.",
+      "answerTa": "மயிலாடுதுறை மாவட்டம் தரங்கம்பாடியில் உள்ள டேனிஷ் கோட்டை 17-ஆம் நூற்றாண்டில் கட்டப்பட்டது. இது இந்தியாவில் டேனிஷ் காலனித்துவத்தின் மையமாகவும், இந்தியாவின் முதல் அச்சு இயந்திரம் நிறுவப்பட்ட இடமாகவும் திகழ்கிறது.",
+      "linkedEntryTitle": "Fort Dansborg, Tharangambadi"
+    }
+  ]
+}

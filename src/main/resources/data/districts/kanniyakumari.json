@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 11,
+    "districtCode": "KAN",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "KAN",
+    "nameEn": "Kanniyakumari",
+    "nameTa": "கன்னியாகுமரி",
+    "region": "Southern",
+    "latitude": 8.0883,
+    "longitude": 77.5385,
+    "description": "The southernmost tip of the Indian subcontinent where the Arabian Sea, Bay of Bengal, and Indian Ocean converge. It is celebrated for its unique sunrises, sunsets, and monumental offshore structures."
+  },
+  "culturalEntries": [
+    {
+      "title": "Thiruvalluvar Statue and Vivekananda Rock",
+      "titleTa": "திருவள்ளுவர் சிலை மற்றும் விவேகானந்தர் பாறை",
+      "alternateNames": "Ayyan Thiruvalluvar Silai, Vivekananda Rock Memorial",
+      "shortDescription": "A monumental 133-foot stone sculpture of the Tamil poet-philosopher Thiruvalluvar and the adjacent rock memorial honoring Swami Vivekananda's meditation.",
+      "fullDescription": "Standing on two adjacent rocks approximately 500 meters off the mainland, these monuments form the iconic silhouette of Kanniyakumari. The Thiruvalluvar Statue stands exactly 133 feet tall, symbolizing the 133 chapters of the Tirukkural. The pedestal represents Araram and Porul, while the statue represents Inbam, signifying that wealth and love should be based on solid virtue. The neighboring Vivekananda Rock Memorial marks the spot where Swami Vivekananda attained enlightenment in 1892 before his journey to Chicago.",
+      "categoryCode": "ARCHITECTURE_SCULPTURE",
+      "districtCode": "KAN",
+      "townVillage": "Kanniyakumari Town",
+      "latitude": 8.078,
+      "longitude": 77.5552,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "All Communities",
+      "historyOrigin": "Vivekananda Rock built in 1970; Thiruvalluvar statue sculpted by Dr. V. Ganapati Sthapati and inaugurated in 2000.",
+      "culturalSignificance": "A triumph of modern traditional stone architecture that immortalizes Tamil literature's greatest work, the Tirukkural, at the geographical convergence of India's oceans.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "thiruvalluvar",
+        "tirukkural",
+        "vivekananda",
+        "monument",
+        "ocean",
+        "sculpture"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "THIRUVALLUVAR_STATUE",
+      "keywords": "kanniyakumari, thiruvalluvar, statue, 133 feet, tirukkural, vivekananda rock, ocean confluence",
+      "categoryCode": "ARCHITECTURE_SCULPTURE",
+      "districtCode": "KAN",
+      "answerEn": "The Thiruvalluvar Statue in Kanniyakumari is exactly 133 feet tall, representing the 133 chapters of his masterpiece, the Tirukkural. It stands on a rock next to the Vivekananda Rock Memorial where the three oceans meet.",
+      "answerTa": "கன்னியாகுமரியில் முக்கடல் சங்கமிக்கும் இடத்தில் அமைந்துள்ள திருவள்ளுவர் சிலை 133 அடி உயரம் கொண்டது. இது திருக்குறளின் 133 அதிகாரங்களைக் குறிக்கிறது. இதன் அருகே விவேகானந்தர் பாறை நினைவகம் அமைந்துள்ளது.",
+      "linkedEntryTitle": "Thiruvalluvar Statue and Vivekananda Rock"
+    }
+  ]
+}

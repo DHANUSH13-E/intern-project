@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 17,
+    "districtCode": "NAM",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "NAM",
+    "nameEn": "Namakkal",
+    "nameTa": "நாமக்கல்",
+    "region": "Western",
+    "latitude": 11.2189,
+    "longitude": 78.1674,
+    "description": "Known as the 'Transport and Poultry Hub' of Tamil Nadu, Namakkal is geographically distinguished by a massive monolithic rock at its center, topped with a historic fort and ancient rock-cut cave temples."
+  },
+  "culturalEntries": [
+    {
+      "title": "Namakkal Anjaneyar Temple and Rock Fort",
+      "titleTa": "நாமக்கல் ஆஞ்சநேயர் கோயில் மற்றும் மலைக்கோட்டை",
+      "alternateNames": "Namakkal Hanuman Temple, Namakkal Fort",
+      "shortDescription": "An 18-foot monolithic statue of Lord Hanuman standing open to the sky, facing the ancient Narasimhaswamy rock-cut temple beneath a 17th-century hill fort.",
+      "fullDescription": "The Namakkal Anjaneyar Temple features an awe-inspiring 18-foot tall monolithic statue of Lord Hanuman, carved from a single piece of stone, uniquely situated without a roof. According to legend, Hanuman was carrying the Sanjeevani hill and stopped here, dropping a piece that became the massive 65-meter high Namakkal rock. Directly facing Hanuman is the Pallava-era rock-cut Narasimhaswamy temple. Atop the rock sits a fort built by the Madurai Nayaks, later utilized by Hyder Ali and Tipu Sultan.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "NAM",
+      "townVillage": "Namakkal Town",
+      "latitude": 11.2223,
+      "longitude": 78.167,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu",
+      "historyOrigin": "Cave temples date to the 8th century Pallava/Adhiyaman period; Fort built by Nayaks in the 17th century.",
+      "culturalSignificance": "A rare confluence of 8th-century rock-cut architecture, open-air colossal religious sculpture, and medieval military fortifications, dominating the district's cultural landscape.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "hanuman",
+        "anjaneyar",
+        "rock fort",
+        "monolith",
+        "pallava architecture",
+        "nayak fort"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "NAMAKKAL_ANJANEYAR_FORT",
+      "keywords": "namakkal, anjaneyar, hanuman temple, rock fort, narasimhaswamy, monolith, open sky",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "NAM",
+      "answerEn": "The Namakkal Anjaneyar Temple features an 18-foot monolithic statue of Lord Hanuman that stands without a roof. It faces the 8th-century rock-cut Narasimhaswamy temple, located at the base of the historic Namakkal Rock Fort.",
+      "answerTa": "நாமக்கல் ஆஞ்சநேயர் கோயிலில் கூரையில்லாமல் திறந்தவெளியில் அமைந்துள்ள 18 அடி உயர ஒற்றைக்கல் ஆஞ்சநேயர் சிலை புகழ்பெற்றது. இது வரலாற்று சிறப்புமிக்க நாமக்கல் மலைக்கோட்டையின் அடிவாரத்தில் உள்ள நரசிம்மசுவாமி குடைவரைக் கோயிலை நோக்கி அமைந்துள்ளது.",
+      "linkedEntryTitle": "Namakkal Anjaneyar Temple and Rock Fort"
+    }
+  ]
+}

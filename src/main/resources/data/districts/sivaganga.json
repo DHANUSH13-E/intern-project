@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 23,
+    "districtCode": "SVG",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "SVG",
+    "nameEn": "Sivaganga",
+    "nameTa": "சிவகங்கை",
+    "region": "Southern",
+    "latitude": 9.8433,
+    "longitude": 78.4809,
+    "description": "The heartland of Chettinad culture, Sivaganga is distinguished by its palatial mansions, fiery culinary heritage, and groundbreaking archaeological discoveries that push back the antiquity of the Sangam era."
+  },
+  "culturalEntries": [
+    {
+      "title": "Keeladi Excavations - Sangam Era Civilization",
+      "titleTa": "கீழடி அகழாய்வு - சங்க கால நாகரிகம்",
+      "alternateNames": "Keezhadi Archaeological Site",
+      "shortDescription": "An ongoing archaeological excavation on the banks of the Vaigai river revealing an advanced urban, literate Sangam-era settlement dating back to the 6th century BCE.",
+      "fullDescription": "Located along the Vaigai river, Keeladi is a watershed archaeological site that has profoundly reshaped the understanding of South Indian history. Excavations have unearthed a thriving, secular, and literate urban civilization dating as far back as 580 BCE. Findings include advanced brick structures, closed drainage systems, ring wells, exquisite pottery with Tamil-Brahmi inscriptions, weaving tools, and carnelian beads indicating trade with Rome and the Indus Valley. It provides hard evidence for the urbanized nature of the classical Sangam period.",
+      "categoryCode": "ARCHAEOLOGICAL_INSCRIPTIONS",
+      "districtCode": "SVG",
+      "townVillage": "Keeladi",
+      "latitude": 9.8617,
+      "longitude": 78.1969,
+      "authenticityType": "ARCHAEOLOGICAL_SCHOLARLY",
+      "religionCommunity": "Secular / Ancient Tamil",
+      "historyOrigin": "Carbon dated to the 6th century BCE, active during the Sangam period.",
+      "culturalSignificance": "Bridges the historical gap between the Indus Valley Civilization and the Sangam era, proving that a literate, industrialized urban society existed in Tamil Nadu over 2600 years ago.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "archaeology",
+        "keeladi",
+        "sangam era",
+        "vaigai",
+        "tamil brahmi",
+        "urbanization"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "KEELADI_EXCAVATION",
+      "keywords": "sivaganga, keeladi, keezhadi, archaeology, sangam, vaigai, tamil brahmi, excavations",
+      "categoryCode": "ARCHAEOLOGICAL_INSCRIPTIONS",
+      "districtCode": "SVG",
+      "answerEn": "Keeladi in Sivaganga district is an ancient archaeological site on the Vaigai river. Excavations have revealed a highly advanced, literate Sangam-era urban civilization dating back to 580 BCE, featuring Tamil-Brahmi inscribed pottery and brick structures.",
+      "answerTa": "சிவகங்கை மாவட்டத்தில் வைகை ஆற்றங்கரையில் அமைந்துள்ள கீழடி அகழாய்வு, சங்க காலத் தமிழர்களின் வளமான நாகரிகத்தை வெளிப்படுத்தியுள்ளது. இங்கு கி.மு. 6-ஆம் நூற்றாண்டைச் சேர்ந்த தமிழ் பிராமி எழுத்துக்கள், செங்கல் கட்டிடங்கள் மற்றும் நகர நாகரிகத்தின் சான்றுகள் கிடைத்துள்ளன.",
+      "linkedEntryTitle": "Keeladi Excavations - Sangam Era Civilization"
+    }
+  ]
+}

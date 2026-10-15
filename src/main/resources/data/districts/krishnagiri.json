@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 13,
+    "districtCode": "KRI",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "KRI",
+    "nameEn": "Krishnagiri",
+    "nameTa": "கிருஷ்ணகிரி",
+    "region": "Western",
+    "latitude": 12.528,
+    "longitude": 78.2152,
+    "description": "Meaning 'Black Hill', Krishnagiri is known for its formidable hill forts, rich archaeological significance with numerous megalithic dolmens, and as the primary mango cultivation belt of Tamil Nadu."
+  },
+  "culturalEntries": [
+    {
+      "title": "Krishnagiri Fort and Syed Basha Hills",
+      "titleTa": "கிருஷ்ணகிரி கோட்டை மற்றும் சையத் பாஷா மலை",
+      "alternateNames": "Syed Basha Mountain Fort",
+      "shortDescription": "A strategic 16th-century hill fort built by the Vijayanagara Empire that later became a critical stronghold for Tipu Sultan.",
+      "fullDescription": "Perched atop a massive black granite hill, the Krishnagiri Fort is one of the strongest defensive structures in the region. Built initially by the Vijayanagara emperor Krishnadevaraya, it subsequently served as the capital of the Bara Mahal (twelve forts) region. The fort saw intense battles between the British East India Company and the troops of Hyder Ali and Tipu Sultan. Today, it remains an excellent example of medieval military architecture, requiring a steep climb of stone steps to reach the summit, which offers panoramic views and houses ancient granaries and armories.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "KRI",
+      "townVillage": "Krishnagiri Town",
+      "latitude": 12.5367,
+      "longitude": 78.2144,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Military Heritage",
+      "historyOrigin": "Constructed in the 16th century by Vijayanagara rulers; fortified further by Hyder Ali in the late 18th century.",
+      "culturalSignificance": "A testament to the shifting martial powers in South India, highlighting medieval defensive architecture, water harvesting on rocky terrain, and the era of the Anglo-Mysore Wars.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": true,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "hill fort",
+        "vijayanagara",
+        "tipu sultan",
+        "bara mahal",
+        "military architecture",
+        "trekking"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "KRISHNAGIRI_FORT",
+      "keywords": "krishnagiri, fort, syed basha hill, vijayanagara, tipu sultan, bara mahal, hill fort",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "KRI",
+      "answerEn": "The Krishnagiri Fort, located on the Syed Basha Hill, is a 16th-century defensive structure originally built by the Vijayanagara Empire. It was a key military stronghold during the era of Tipu Sultan and the Anglo-Mysore wars.",
+      "answerTa": "சையத் பாஷா மலையில் அமைந்துள்ள கிருஷ்ணகிரி கோட்டை 16-ஆம் நூற்றாண்டில் விஜயநகரப் பேரரசால் கட்டப்பட்டது. இது திப்பு சுல்தான் மற்றும் ஆங்கிலேய-மைசூர் போர்களின் போது ஒரு முக்கிய ராணுவத் தளமாக விளங்கியது.",
+      "linkedEntryTitle": "Krishnagiri Fort and Syed Basha Hills"
+    }
+  ]
+}

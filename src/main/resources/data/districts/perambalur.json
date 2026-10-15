@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 19,
+    "districtCode": "PBL",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "PBL",
+    "nameEn": "Perambalur",
+    "nameTa": "பெரம்பலூர்",
+    "region": "Central",
+    "latitude": 11.2342,
+    "longitude": 78.8821,
+    "description": "Located in the central part of Tamil Nadu, Perambalur is an agrarian district rich in paleontology—famous for its ancient marine fossils and the historic Ranjankudi Fort."
+  },
+  "culturalEntries": [
+    {
+      "title": "Ranjankudi Fort",
+      "titleTa": "ரஞ்சன்குடி கோட்டை",
+      "alternateNames": "Nawab's Fort, Ranjankudi Kottai",
+      "shortDescription": "A 17th-century fortress built by the Jagirdar of the Nawab of Carnatic, showcasing exquisite Islamic military architecture.",
+      "fullDescription": "Built in the 17th century by a Jagirdar under the Nawab of Carnatic, Ranjankudi Fort is a remarkable example of Islamic military architecture in Tamil Nadu. The fort features three defensive tiers—a lower tier, a middle tier, and the citadel—constructed with cut stone blocks. It includes semi-circular bastions, a moat, a palace area, underground chambers, and a mosque. The fort was the site of the pivotal Battle of Valikondah in 1751 during the Carnatic Wars between the British and the French.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "PBL",
+      "townVillage": "Ranjankudi",
+      "latitude": 11.3259,
+      "longitude": 78.9329,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Islamic / Secular Military",
+      "historyOrigin": "Constructed in the 17th century during the rule of the Nawabs of Carnatic.",
+      "culturalSignificance": "A crucial military monument that played a significant role in the Second Carnatic War, illustrating the era's sophisticated defensive architecture and water management systems.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": false,
+      "hiddenGem": true,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "fort",
+        "carnatic wars",
+        "nawab",
+        "ranjankudi",
+        "military architecture",
+        "islamic heritage"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "RANJANKUDI_FORT",
+      "keywords": "perambalur, ranjankudi, fort, nawab of carnatic, battle of valikondah, islamic architecture",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "PBL",
+      "answerEn": "The Ranjankudi Fort in Perambalur district is a 17th-century fortress built by the Nawabs of Carnatic. It is famous for its three-tiered defensive architecture and its historical role in the Carnatic Wars of 1751.",
+      "answerTa": "பெரம்பலூர் மாவட்டத்தில் உள்ள ரஞ்சன்குடி கோட்டை 17-ஆம் நூற்றாண்டில் கர்நாடக நவாப்களால் கட்டப்பட்டது. இது மூன்று அடுக்கு பாதுகாப்பு கட்டமைப்புகளையும், 1751 கர்நாடகப் போரில் முக்கியப் பங்காற்றிய வரலாற்றையும் கொண்டது.",
+      "linkedEntryTitle": "Ranjankudi Fort"
+    }
+  ]
+}

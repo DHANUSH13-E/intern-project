@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 34,
+    "districtCode": "VEL",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "VEL",
+    "nameEn": "Vellore",
+    "nameTa": "வேலூர்",
+    "region": "Northern",
+    "latitude": 12.9165,
+    "longitude": 79.1325,
+    "description": "A prominent transit and medical hub, Vellore is historically anchored by its impregnable granite fort, the site of the 1806 Sepoy Mutiny."
+  },
+  "culturalEntries": [
+    {
+      "title": "Vellore Fort and Jalakandeswarar Temple",
+      "titleTa": "வேலூர் கோட்டை மற்றும் ஜலகண்டேஸ்வரர் கோயில்",
+      "alternateNames": "Vellore Kottai",
+      "shortDescription": "An incredibly well-preserved 16th-century granite fort surrounded by a wide moat, housing a spectacular Nayak-era Shiva temple, a church, and a mosque.",
+      "fullDescription": "Constructed in 1566 CE by Bommi and Thimma Reddy under the Vijayanagara Empire, Vellore Fort is considered one of the most perfect specimens of military architecture in South India. It features massive granite walls and a wide, crocodile-infested moat. Inside the fort is the Jalakandeswarar Temple, renowned for its 'Kalyana Mandapam', which boasts some of the finest, most intricate stone pillar carvings in Tamil Nadu. The fort is secularly historic, holding a church, a mosque, and having served as the prison for the family of Tipu Sultan and the last king of Sri Lanka. It was the site of the first major sepoy mutiny against the British in 1806.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "VEL",
+      "townVillage": "Vellore City",
+      "latitude": 12.9229,
+      "longitude": 79.1287,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Hindu, Islamic, Christian",
+      "historyOrigin": "Built in 1566 CE; the 1806 mutiny predates the 1857 Indian Rebellion by half a century.",
+      "culturalSignificance": "A powerful symbol of architectural syncretism and early anti-colonial resistance. The stone carvings of the Jalakandeswarar temple represent the pinnacle of Vijayanagara artistry.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "vellore fort",
+        "moat",
+        "jalakandeswarar",
+        "mutiny 1806",
+        "vijayanagara",
+        "military architecture"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "VELLORE_FORT",
+      "keywords": "vellore, fort, jalakandeswarar, moat, tipu sultan, 1806 mutiny, vijayanagara",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "VEL",
+      "answerEn": "The 16th-century Vellore Fort is renowned for its wide moat, massive granite walls, and the exquisite Jalakandeswarar Temple inside. It is historically famous as the site of the 1806 Sepoy Mutiny against the British.",
+      "answerTa": "16-ஆம் நூற்றாண்டில் கட்டப்பட்ட வேலூர் கோட்டை, அதன் அகழிகளுக்கும் பிரம்மாண்டமான கற்சுவர்களுக்கும் புகழ் பெற்றது. இதன் உள்ளே உள்ள ஜலகண்டேஸ்வரர் கோயில் சிற்பக்கலைக்குச் சான்றாகும். 1806-ஆம் ஆண்டு ஆங்கிலேயருக்கு எதிரான முதல் சிப்பாய்க் கலகம் இங்குதான் நடைபெற்றது.",
+      "linkedEntryTitle": "Vellore Fort and Jalakandeswarar Temple"
+    }
+  ]
+}

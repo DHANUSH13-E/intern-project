@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 32,
+    "districtCode": "TVM",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TVM",
+    "nameEn": "Tiruvannamalai",
+    "nameTa": "திருவண்ணாமலை",
+    "region": "Northern",
+    "latitude": 12.2253,
+    "longitude": 79.0747,
+    "description": "A globally recognized spiritual destination centered around the Arunachala hill. It is the earthly abode of the Agni (Fire) element in Shaivism and the ashram of Sri Ramana Maharshi."
+  },
+  "culturalEntries": [
+    {
+      "title": "Arunachaleswarar Temple",
+      "titleTa": "அருணாசலேஸ்வரர் கோயில்",
+      "alternateNames": "Annamalaiyar Temple, Thiruvannamalai Temple",
+      "shortDescription": "One of the Pancha Bhoota Stalams representing Fire (Agni), situated at the base of the sacred Annamalai hill, famous for the Karthigai Deepam festival.",
+      "fullDescription": "The Arunachaleswarar Temple is a colossal, 24-acre Dravidian temple complex dedicated to Lord Shiva, worshipped here as an Agni Lingam (element of Fire). The temple sits at the foot of the Arunachala hill, which itself is considered a manifestation of Shiva. It features four massive Gopurams, the eastern one being one of the tallest in India at 216 feet, built by Krishnadevaraya. The temple is world-famous for the 'Girivalam' (circumambulation of the hill) during full moons and the spectacular 'Karthigai Deepam', where a massive fire is lit atop the mountain.",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TVM",
+      "townVillage": "Tiruvannamalai City",
+      "latitude": 12.2319,
+      "longitude": 79.0677,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu",
+      "historyOrigin": "Ancient origins; major expansions by the Chola, Hoysala, and Vijayanagara empires from the 9th to 16th centuries.",
+      "culturalSignificance": "A global epicenter for Advaita Vedanta and Shaiva Siddhanta philosophies. The Karthigai Deepam is one of the oldest and largest continuous religious festivals in Tamil Nadu.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "pancha bhoota stalam",
+        "agni",
+        "arunachala",
+        "girivalam",
+        "karthigai deepam",
+        "shiva"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "ARUNACHALESWARAR_TEMPLE",
+      "keywords": "tiruvannamalai, arunachaleswarar, annamalaiyar, fire element, agni, girivalam, karthigai deepam, ramana maharshi",
+      "categoryCode": "HINDU_HERITAGE",
+      "districtCode": "TVM",
+      "answerEn": "The Arunachaleswarar Temple in Tiruvannamalai represents the Fire element (Agni). Located at the base of the sacred Arunachala hill, it is famous for the Girivalam (hill circumambulation) and the grand Karthigai Deepam festival.",
+      "answerTa": "திருவண்ணாமலை அருணாசலேஸ்வரர் கோயில் பஞ்ச பூதத் தலங்களில் அக்னி (நெருப்பு) தலமாகும். அண்ணாமலையின் அடிவாரத்தில் அமைந்துள்ள இக்கோயில், பௌர்ணமி கிரிவலம் மற்றும் மலை உச்சியில் ஏற்றப்படும் கார்த்திகை மகா தீபத்திற்கு உலகப் புகழ் பெற்றது.",
+      "linkedEntryTitle": "Arunachaleswarar Temple"
+    }
+  ]
+}

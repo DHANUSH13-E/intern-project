@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 25,
+    "districtCode": "TNJ",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "TNJ",
+    "nameEn": "Thanjavur",
+    "nameTa": "தஞ்சாவூர்",
+    "region": "Central",
+    "latitude": 10.787,
+    "longitude": 79.1378,
+    "description": "Known as the 'Rice Bowl of Tamil Nadu', Thanjavur is the cultural capital of the state. It was the paramount seat of the Chola Empire, leaving behind a legacy of monumental architecture, classical dance, and unique art forms."
+  },
+  "culturalEntries": [
+    {
+      "title": "Brihadisvara Temple, Thanjavur",
+      "titleTa": "தஞ்சைப் பெரிய கோயில்",
+      "alternateNames": "Peruvudaiyar Kovil, Thanjavur Big Temple, Rajarajesvaram",
+      "shortDescription": "A majestic 11th-century Chola temple, widely considered the pinnacle of Dravidian architecture, featuring a massive vimana and exquisite frescoes.",
+      "fullDescription": "Completed in 1010 CE by Emperor Raja Raja Chola I, the Brihadisvara Temple is one of the greatest architectural achievements in Indian history. Part of the 'Great Living Chola Temples' UNESCO World Heritage Site, it is entirely built of granite. The temple's towering Vimana stands at 216 feet, topped by an 80-ton monolithic cupola (Kumbam). The complex houses a massive Nandi carved from a single rock, brilliant Chola frescoes, and extensive Tamil inscriptions detailing the empire's administration, making it a living museum of early medieval South Indian culture.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "TNJ",
+      "townVillage": "Thanjavur City",
+      "latitude": 10.7828,
+      "longitude": 79.1318,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Hindu",
+      "historyOrigin": "Built by Emperor Raja Raja Chola I in 1010 CE.",
+      "culturalSignificance": "A defining symbol of Tamil identity and imperial Chola engineering. It fundamentally influenced Southeast Asian architecture and remains a vibrant center for Shaivite worship and classical arts.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 180,
+      "tags": [
+        "chola architecture",
+        "unesco",
+        "big temple",
+        "raja raja chola",
+        "granite",
+        "vimana"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "TEMPLE_THANJAVUR",
+      "keywords": "thanjavur, big temple, brihadisvara, raja raja chola, peruvudaiyar, unesco, chola, vimana",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "TNJ",
+      "answerEn": "The Brihadisvara Temple (Big Temple) in Thanjavur was built by Raja Raja Chola I in 1010 CE. This UNESCO World Heritage site is a masterpiece of Dravidian architecture, renowned for its 216-foot tall granite Vimana and massive monolithic Nandi.",
+      "answerTa": "தஞ்சைப் பெரிய கோயில் (பிரகதீஸ்வரர் கோயில்) கி.பி. 1010-இல் ராஜராஜ சோழனால் கட்டப்பட்டது. யுனெஸ்கோ உலகப் பாரம்பரிய தளமான இது, 216 அடி உயர கருங்கல் விமானத்திற்கும், பிரம்மாண்டமான நந்தி சிலைக்கும் பெயர் பெற்ற திராவிடக் கட்டிடக்கலையின் உச்சமாகும்.",
+      "linkedEntryTitle": "Brihadisvara Temple, Thanjavur"
+    }
+  ]
+}

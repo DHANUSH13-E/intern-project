@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "districtOrder": 35,
+    "districtCode": "VIL",
+    "schemaNotes": "Keys follow the platform entities (District, CulturalEntry, ChatbotKnowledge). categoryCode and districtCode are lookups.",
+    "verificationNote": "Dates are scholarly or traditional estimates. Please verify before publishing."
+  },
+  "district": {
+    "code": "VIL",
+    "nameEn": "Viluppuram",
+    "nameTa": "விழுப்புரம்",
+    "region": "Northern",
+    "latitude": 11.9401,
+    "longitude": 79.4861,
+    "description": "An expansive agricultural district home to the majestic Gingee Fort, ancient Jain caves, and serving as the gateway to the French colonial town of Puducherry."
+  },
+  "culturalEntries": [
+    {
+      "title": "Gingee Fort - Troy of the East",
+      "titleTa": "செஞ்சிக் கோட்டை - கிழக்கின் ட்ராய்",
+      "alternateNames": "Senji Fort",
+      "shortDescription": "A massive, impregnable hill fortress spanning across three hillocks, dubbed the 'Troy of the East' by the British.",
+      "fullDescription": "Gingee (Senji) Fort is one of the most magnificent surviving forts in Tamil Nadu. Spanning across three massive hillocks—Rajagiri, Krishnagiri, and Chandrayandurg—the fort features a 13-kilometer-long enclosing wall. Originally built by the Cholas in the 9th century, it was highly fortified by the Vijayanagara Nayaks, and later captured by the Marathas under Chhatrapati Shivaji (who ranked it the most impregnable fort in India), the Mughals, the French, and the British. The complex houses granaries, a prison, the Kalyana Mahal, and temples, requiring a steep, challenging trek to reach the Rajagiri summit.",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "VIL",
+      "townVillage": "Gingee",
+      "latitude": 12.253,
+      "longitude": 79.4005,
+      "authenticityType": "HISTORICAL_FACT",
+      "religionCommunity": "Secular / Military Heritage",
+      "historyOrigin": "Originated in the 9th century; modified heavily in the 16th century by Gingee Nayaks and 17th century Marathas.",
+      "culturalSignificance": "A testament to strategic mountain military architecture, witnessing the rise and fall of almost every major power in South Indian medieval and colonial history.",
+      "festivalsCustoms": null,
+      "relatedArts": null,
+      "traditionalClothing": null,
+      "traditionalCuisine": null,
+      "coverImageUrl": "/images/placeholders/place.svg",
+      "sourceReferences": "State Archaeological and Historical Documentation; Tamil Nadu Tourism",
+      "status": "APPROVED",
+      "featured": true,
+      "hiddenGem": false,
+      "averageRating": 4.8,
+      "totalRatings": 190,
+      "tags": [
+        "gingee",
+        "senji",
+        "hill fort",
+        "troy of the east",
+        "shivaji",
+        "maratha"
+      ]
+    }
+  ],
+  "chatbotKnowledge": [
+    {
+      "topicKey": "GINGEE_FORT",
+      "keywords": "viluppuram, gingee, senji, fort, troy of the east, rajagiri, shivaji, hill fort",
+      "categoryCode": "HISTORICAL_MONUMENTS",
+      "districtCode": "VIL",
+      "answerEn": "Gingee Fort in Viluppuram district, famously called the 'Troy of the East' by the British, is an impregnable fortress spanning three hills. It was a strategic stronghold for the Nayaks, Marathas, and Mughals.",
+      "answerTa": "விழுப்புரம் மாவட்டத்தில் உள்ள செஞ்சிக் கோட்டை, மூன்று குன்றுகளில் பரவியுள்ள பிரம்மாண்டமான கோட்டையாகும். ஆங்கிலேயர்களால் 'கிழக்கின் ட்ராய்' என அழைக்கப்பட்ட இது நாயக்கர்கள், மராத்தியர்கள் மற்றும் முகலாயர்களுக்கு முக்கிய ராணுவத் தளமாக விளங்கியது.",
+      "linkedEntryTitle": "Gingee Fort - Troy of the East"
+    }
+  ]
+}
